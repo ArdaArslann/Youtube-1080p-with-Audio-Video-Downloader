@@ -1,11 +1,21 @@
 # Youtube-1080p-with-Audio-Video-Downloader
 Step 1- Copy your youtube video url.
-Step 2- Paste youtube video url in to the program
-Step 3- Choose directory for download the video
-Step 4- Select 1080p button
-Step 5- Press Download button
-Step 6- Select Audio button
-Step 7- Press Download button
-Step 8- Select Combine button
-Step 9- Press Download button
-Note: If your videos size is a bit high may combine process took some time. You can look to the process in vscode terminal.
+
+Step 2- Paste youtube video url in to the program.
+
+Step 3- Choose directory for download the video.
+
+Step 4- Select 1080p button.
+
+Step 5- Press Download button.
+
+Step 6- Select Audio button.
+
+Step 7- Press Download button.
+
+Step 8- Select Combine button.
+
+Step 9- Press Download button.
+
+Note: If your videos size is a bit high may combine process took some time. 
+You can look to the process in vscode terminal.
