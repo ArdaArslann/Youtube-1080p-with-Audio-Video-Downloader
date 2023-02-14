@@ -17,5 +17,5 @@ Step 8- Select Combine button.
 
 Step 9- Press Apply button and wait for combining.
 
-Note: If your videos size is a bit high may combine process took some time. 
+Note: If your videos size is a bit high may combine process take some time. 
 You can look to the process in vscode terminal.
