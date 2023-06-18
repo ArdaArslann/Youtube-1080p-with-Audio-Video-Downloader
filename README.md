@@ -1,4 +1,10 @@
 # Youtube-1080p-with-Audio-Video-Downloader
+Before using:
+Write these commands to the terminal.
+-pip install moviePy
+-pip install pytube
+-pip install slugify
+
 Step 1- Copy your youtube video url.
 
 Step 2- Paste youtube video url in to the program.
