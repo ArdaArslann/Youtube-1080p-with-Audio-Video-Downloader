@@ -4,9 +4,9 @@ Write these commands to the terminal.
 
 -pip install moviePy
 
--pip install pytube
+-pip install pytubefix
 
--pip install slugify
+-pip install python-slugify
 
 
 Step 1- Copy your youtube video url.
