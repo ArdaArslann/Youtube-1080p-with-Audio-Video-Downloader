@@ -7,8 +7,8 @@ from slugify import slugify
 from tkinter import *
 from tkinter import ttk
 from tkinter import filedialog
-from pytube import YouTube
-from pytube import*
+
+from pytubefix  import*
 import moviepy
 import moviepy.editor as mymovie
 
